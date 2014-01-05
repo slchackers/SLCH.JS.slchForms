@@ -1,4 +1,6 @@
 slch-json-forms
 ===============
 
-generate html forms with validation from JSON
+Generate html forms with validation from a JSON Configuration.
+
+
