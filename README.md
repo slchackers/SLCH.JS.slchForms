@@ -1,6 +1,6 @@
-slch-json-forms
-===============
+slchForms
+=========
 
-Generate html forms with validation from a JSON Configuration.
+AngularJS module to generate html forms with validation from a JSON Configuration.
 
 
